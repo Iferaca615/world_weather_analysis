@@ -19,7 +19,7 @@ In this map we were able to display markers on the map which represented the pos
 # Travel Itinerary Map:
 Below are two images of the maps we created to display a travel route between four different vacation destinations as well as the popup markers that describe the collected data for the specific city.
 ![WeatherPy Travel Map](vacation_itinerary/WeatherPy_travel_map.png)
-![WeatherPy travel map markers](vacation_intinerary/WeatherPy_travel_map_markers.png)
+![WeatherPy travel map markers](vacation_itinerary/WeatherPy_travel_map_markers.png)
 
 
 
